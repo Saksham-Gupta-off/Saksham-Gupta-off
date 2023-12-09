@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saksham Gupta. I am currently a Third Year in college (IIT Bombay).
+- 👋 Hi, I’m Saksham Gupta. I am currently a Fourth Year student in college (IIT Bombay).
 
 - 👀 I’m interested in web and software developement.
 - 🌱 I’m currently learning DSA and Machine Learning.
