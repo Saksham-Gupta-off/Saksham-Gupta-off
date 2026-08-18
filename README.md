@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on any Machine Learning or Web Development projects, small, medium or large.
 - 📫 You can reach me at drsakshamgupta@gmail.com or 20d170037@iitb.ac.in
-- Proud LGBTQ supporter 🏳️‍🌈
+
 
 <!---
 Saksham-Gupta-off/Saksham-Gupta-off is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
